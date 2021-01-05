@@ -1,0 +1,133 @@
+{
+  "name": "lilac boutique",
+  "url": "https://lilac.boutique",
+  "overview": {
+    "text": "The branding for Lilac Boutique has been designed to communicate the desired atmosphere of the brick & mortar location, while remaining flexible enough for e-commerce & social commerce. This flexibily is achieved by keeping the branding incredbily minimalistic & relying on detailed custom illustrated elements to create the atmosphere across these channels."
+  },
+  "color": {
+    "colors": [
+      {
+        "id": 1,
+        "hex": "#F2BFBF",
+        "hsla": "0  21  95  1"
+      },
+      {
+        "id": 2,
+        "hex": "#FADEC5",
+        "hsla": "28  21  98  1"
+      },
+      {
+        "id": 3,
+        "hex": "#A6AC89",
+        "hsla": "70  20  67  1"
+      },
+      {
+        "id": 4,
+        "hex": "#CB7077",
+        "hsla": "355  45  80  1"
+      },
+      {
+        "id": 5,
+        "hex": "#613D35",
+        "hsla": "11  45  38  1"
+      },
+      {
+        "id": 6,
+        "hex": "#565F47",
+        "hsla": "85  25  37  1"
+      }
+    ],
+    "text": "All colors in this pallet should be considered accents, where the primary color should always be white. If a design is to be dominated by anyone color, it should be the lightest pink. "
+  },
+  "font": {
+    "fonts": [
+      {
+        "id": 1,
+        "name": "Cormorant Garamond",
+        "importLink": "@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');",
+        "family": "'Cormorant Garamond', serif",
+        "use": "all text",
+        "variations": [
+          {
+            "id": 1,
+            "vname": "light",
+            "weight": "300",
+            "styles": [
+              "italic"
+            ]
+          },
+          {
+            "id": 2,
+            "vname": "regular",
+            "weight": "400",
+            "styles": [
+              "italic"
+            ]
+          },
+          {
+            "id": 3,
+            "vname": "medium",
+            "weight": "500",
+            "styles": [
+              "italic"
+            ]
+          },
+          {
+            "id": 4,
+            "vname": "semi-bold",
+            "weight": "600",
+            "styles": [
+              "italic"
+            ]
+          },
+          {
+            "id": 5,
+            "vname": "bold",
+            "weight": "700",
+            "styles": [
+              "italic"
+            ]
+          }
+        ]
+
+        
+      }
+    ],
+    "text": "Cormorant Garamond is the font for all text on materials from Lilac Boutique. To create text heirarchy, use different font sizes & weights. A generous use a italics is encouraged."
+  },
+  "logo": {
+    "primary": {
+      "name": "Version 1 - Full",
+      "image": "Lilac-Logo-V1-Full.png"
+    },
+    "variations": [
+      {
+        "id": 1,
+        "name": "Version 1 - Simple",
+        "image": "Lilac-Logo-V1-Simple.png"
+      },
+      {
+        "id": 2,
+        "name": "Version 2 - Full",
+        "image": "Lilac-Logo-V2-Full.png"
+      },
+      {
+        "id": 3,
+        "name": "Version 2 - Simple",
+        "image": "Lilac-Logo-V2-Simple.png"
+      }
+    ],
+    "text": "The main logo should be used in all cases where 'Lilac Boutique' is also present in the material. This simpler logo limits the repeating of words making things easier to read. However, whenever the logo is present alone, Logo Version 2 - Full should be used. The simple logo variations should be used in one color designs."
+  },
+  "brush": {
+    "brushes": [
+      {
+        "id": 1,
+        "name": "6B Pencil - Procreate",
+        "image": "6B-pencil.png",
+        "link": null
+      }
+    ],
+    "text": "brushes placeholder text"
+  }
+}
